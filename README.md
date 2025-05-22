@@ -40,3 +40,17 @@ Make sure you have **Node.js**, **Expo CLI**, and either an Android/iOS Emulator
 ```bash
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 cd YOUR_REPO_NAME
+```
+
+### 2. Install dependencies:
+
+npm install
+
+### 3. Start the project:
+
+npm expo start
+
+Then, select:<br>
+**w** to open in Web browser<br>
+**a** for Android Emulator<br>
+**i** for iOS Simulator
