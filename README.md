@@ -38,17 +38,19 @@ Make sure you have **Node.js**, **Expo CLI**, and either an Android/iOS Emulator
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/YOUR_USERNAME/crossPlatformApp-ReactNative.git
+cd crossPlatformApp-ReactNative
 ```
 
 ### 2. Install dependencies:
-
+```bash
 npm install
+```
 
 ### 3. Start the project:
-
+```bash
 npm expo start
+```
 
 Then, select:<br>
 **w** to open in Web browser<br>
